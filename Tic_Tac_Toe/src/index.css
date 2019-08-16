@@ -1,0 +1,16 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 60px;
+  }
+  
+  .game {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid red;
+    padding: 10px;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+  }
+  
